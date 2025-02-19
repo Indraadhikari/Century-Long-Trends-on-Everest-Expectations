@@ -1,3 +1,5 @@
+****Century Long Trends on Everest; From the First Ascent to the Modern Era****
+
 **Introduction**
 
 Even though many climbers lost their lives on Everest expeditions, the statistic has been growing over time. Therefore, I have investigated safety issues, such as mortality rates and the effects of the host, in addition to revealing key historical trends in Everest climbing, such as variations in the number of climbers, the seasons, and demographics like age and gender. This study's dataset, which covers Everest expeditions from 1953 until 2020, was obtained via Kaggle [1]. With a better understanding of Everest expeditions, climbers, organizations, and researchers will be able to plan safer and more productive ascents.
