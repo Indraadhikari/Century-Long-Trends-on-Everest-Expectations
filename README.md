@@ -1,4 +1,4 @@
-****Century Long Trends on Everest; From the First Ascent to the Modern Era****
+# Century Long Trends on Everest; From the First Ascent to the Modern Era
 
 **Introduction**
 
