@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+pandas
+scikit-learn
+pycountry-convert
+pycountry
+seaborn
+statsmodels
+pygam
